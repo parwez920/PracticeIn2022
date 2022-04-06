@@ -1,4 +1,4 @@
-public class demo {
+public class StringCount{
 
     Static void StringCoutVoil(str){
 
